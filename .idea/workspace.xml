@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a69bbc-ceda-40ff-85b0-66ab29c60599" name="Changes" comment="include tailwind">
-      <change afterPath="$PROJECT_DIR$/src/assets/pifae-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+    <list default="true" id="f6a69bbc-ceda-40ff-85b0-66ab29c60599" name="Changes" comment="add nodes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-DdiqUGQG.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/index-DdiqUGQG.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709638760247</updated>
-      <workItem from="1709638762992" duration="1184000" />
+      <workItem from="1709638762992" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="include tailwind">
       <option name="closed" value="true" />
@@ -86,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709639527971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="include tailwind">
+      <option name="closed" value="true" />
+      <created>1709640017647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709640017647</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add nodes">
+      <option name="closed" value="true" />
+      <created>1709640126068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709640126068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="include tailwind" />
-    <option name="LAST_COMMIT_MESSAGE" value="include tailwind" />
+    <MESSAGE value="add nodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add nodes" />
   </component>
 </project>
